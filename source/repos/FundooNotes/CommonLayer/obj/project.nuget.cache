@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Szj0F3nrD+b8CPPhupftBVz8xhUQOh7RojebaqDTPn6CnrYgozKmIFIko0StT1V0I9jSHiIB/9ZvBcg9BRcroQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\anujk\\source\\repos\\FundooNotes\\CommonLayer\\ModelLayer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\anujk\\.nuget\\packages\\mongodb.bson\\2.16.1\\mongodb.bson.2.16.1.nupkg.sha512",
+    "C:\\Users\\anujk\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
